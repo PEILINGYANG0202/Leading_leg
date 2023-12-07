@@ -11,8 +11,6 @@ Leading Leg 2023/12/4-2023/12/6&ensp; </td></tr></table></font>
 <h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算腿部彎曲角度的程式，分析每個影片左、右兩側原地站立抬膝達標幾次</h4> 
 <br>
 Mediapipe 的骨架模型：
-<br>
-<br>
 
 ![](https://imgur.com/C98MGPb.png)<br>
 <br>
