@@ -8,7 +8,7 @@ Leading_leg_run.ipynb 是我完整跑完程式碼的樣子（可以參考結果�
 Leading Leg 2023/12/4-2023/12/7&ensp; </td></tr></table></font>
 <br>
 <h3>判讀程式碼目標：</h3>
-<h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算腿部彎曲角度的程式，分析每個影片左、右兩側原地站立抬膝達標幾次</h4> 
+<h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算腿部彎曲角度的程式，分析每個影片左、右兩側原地站立抬膝達標幾次。</h4> 
 <br>
 Mediapipe 的骨架模型：
 
